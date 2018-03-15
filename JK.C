@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 char str[50],i,c=0;
 printf("enter the word");
